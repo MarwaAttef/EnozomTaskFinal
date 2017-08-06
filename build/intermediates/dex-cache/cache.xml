@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_df1ed7c63d5de7ba7d57b8ef584f611c1ed22460.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d410043f93e71bb0179ba86b85726dd080f14b79">
+        <dex dex="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-11.0.0_e2d4aac7bacec00ebb607cc47be6f9ffd884d67c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\11.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b985bd4eb1abd0e7e1f49c9cdf80a0d3563bad2a">
+        <dex dex="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-11.0.0_1606e4c080afc3a25cce098f9f0eddc4984aa09a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\11.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6dfa77c356a9a8c13ad61253ed95ed3a746527e6">
+        <dex dex="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-11.0.0_979a9d28a8eee78ddcaacd454d7060ae63a3447f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e72c498ef3e345135b6bfdf7fc83c6b905228ade">
+        <dex dex="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-11.0.0_b0858d120e3a68cccfe8f5724856af43f089e06d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\11.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="af26875652e085cd14713ff655bc3aa07960d459">
+        <dex dex="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-11.0.0_918816226c3f4848992bdaab7f4eb90281ea4d89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_ae7d8566377be280d5e5fd21c7e448ce72b71a4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_b567308734c59ddbbe27f5b71ffad842f5336756.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\11.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eaac8b02a2373e238cab6fc514e4667204b64191">
+        <dex dex="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-11.0.0_6a6a58f33372905593d8433659153f4e6f5bd906.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\11.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f351ee2e10aaf23a13b0fcd19788683d7dce6192">
+        <dex dex="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-11.0.0_16f884309d7d3ce1d512658302a5abdf1407dbd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a611d7a00671ec4eb3050a21425fae955a38eb8a">
+        <dex dex="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-11.0.0_7d91ec04af3a9378ee33609dc8b007e5136c5e1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_1ff614b20ec11000fb58fa952f0cd5029585c27e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_536534d20412e72335f5b49156819000425a5a5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_8079daddfc7f693120936bf581c8c77801008623.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_ba8158807f4cfe8a32ff84279660bcbbecb3f570.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d68bbf92de9721b02a31a3833abfdc90144c7e39">
+        <dex dex="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-11.0.0_80b68af3854528004fd8be446eb1fb67ec8ba1dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aba37a3eec04e174dc59f00cf4bd7992061d847a">
+        <dex dex="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-11.0.0_8ead3c73bad98d725b649a7a5805f09521ffbeaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_1a1dc4ca0fa54ebd6412caa3da568373d8653699.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Marwa\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_01cb8e234226bdbdbe3ed1a414ac2396ed4cf523.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0e39662b49ef66950c0941aa5fd4c49346a7c341">
+        <dex dex="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-11.0.0_2f388e875abd77ada8a52c303951210b89752507.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_fc5deb35444e89709081a7777c81aa543762cc14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_54d6afd804aa2c5ebe72ca34000aa2fbe8d58d65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_e2df8d1d20951cd4415c7168dc6d3485da09b93e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ef65e4780d67d06abddd6e2d15dd4e0519ad8d8a">
+        <dex dex="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-11.0.0_8baad462ceadf89e1f69f6a1b9bc46a05376cdfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\itspark\Dawaia\EnozomTask\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_b5b7dbcd8d460484788bc0ae016d038aefe60453.jar" />
+    </item>
+
+</items>

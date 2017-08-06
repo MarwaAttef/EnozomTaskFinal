@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">753814204837-8k4a60vqu8a2diqnh91bdam7555t9bmk.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://enozomtask-3c261.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">753814204837</string>
+    <string name="google_api_key" translatable="false">AIzaSyDXkOjPrnoIAf4cr2c-tz4iKHomN3MHrEo</string>
+    <string name="google_app_id" translatable="false">1:753814204837:android:7e635bae9f967ab6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDXkOjPrnoIAf4cr2c-tz4iKHomN3MHrEo</string>
+    <string name="google_storage_bucket" translatable="false">enozomtask-3c261.appspot.com</string>
+</resources>

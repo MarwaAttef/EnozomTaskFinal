@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "753814204837",
+    "firebase_url": "https://enozomtask-3c261.firebaseio.com",
+    "project_id": "enozomtask-3c261",
+    "storage_bucket": "enozomtask-3c261.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753814204837:android:7e635bae9f967ab6",
+        "android_client_info": {
+          "package_name": "com.example.marwa.enozomtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753814204837-vi61rn2j8650g30lgb2kkgk1q603lk60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marwa.enozomtask",
+            "certificate_hash": "62a04bf82b54e84fe4ec5e9e9f7a6c26cf688ab6"
+          }
+        },
+        {
+          "client_id": "753814204837-8k4a60vqu8a2diqnh91bdam7555t9bmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXkOjPrnoIAf4cr2c-tz4iKHomN3MHrEo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753814204837-8k4a60vqu8a2diqnh91bdam7555t9bmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

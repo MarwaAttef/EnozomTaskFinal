@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\New folder\\EnozomTaskFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\New folder\\EnozomTaskFinal\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\New folder\\EnozomTask\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\New folder\\EnozomTask\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\itspark\\Dawaia\\EnozomTask\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\itspark\\Dawaia\\EnozomTask\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]
